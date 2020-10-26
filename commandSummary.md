@@ -1,3 +1,4 @@
+# Git Commands :herb:
 | No. | Command  | Description|
 | --- | --- | --- |
 | 1. | `$ git clone` | Clones git repository | 

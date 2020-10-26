@@ -507,7 +507,7 @@ $ git commit -m 'Fix merge conflict
 
 ## That's it 😄 Thank you for checking out the 'Git Workflow Workshop for Two Programmers' :clap:
 
-**_A summary of the above commands and what they do can be found [here](/images/git-flow-summary-table.png) in a neat little table._**
+**_A summary of the above commands and what they do can be found [here](/commandSummary.md) in a neat little table._**
 
 **Note**: This workshop does not introduce the very popular idea of forking a repository, which is very useful when wanting to contribute to existing open source projects 💯. Forking is not required when starting a new repository under `foundersandcoders` or `FAC-X` organisations since all your fellow students will be automatically added as contributors.
 

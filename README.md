@@ -379,7 +379,7 @@ $ git push origin fix-typo-heading
 
    - Add a descriptive title (e.g. `Fix the spelling mistake in page heading`) and leave a comment linking the pull request to the issue.
 
-   - Select Programmer 2 as an [assignee](https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/).
+   - Select Programmer 2 as a [reviewer](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review).
 
    <img src="images/pull-request-open.png" width="500" height="auto" alt="open pull request page">
 
